@@ -1,0 +1,12 @@
+body
+{ 
+	min-width:640px;
+	border: 2px double red;
+	text-align: center;
+}
+
+h1, h2
+{
+	color: green;
+	text-align: center;
+}
